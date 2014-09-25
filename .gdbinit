@@ -1,4 +1,4 @@
-source /home/test/src/Gdbinit/gdbinit
+source ~/.gdb/Gdbinit/gdbinit
 context-off
 
 #I dont' like n=nexti
